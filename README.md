@@ -22,7 +22,7 @@ API with data
 
 curl_setopt — Set an option for a cURL transfer
 
-Youtube Tutorial : https://youtu.be/HPm-7UUGqtE
+Youtube Tutorial : https://youtu.be/WrJIs8sRVa8
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
