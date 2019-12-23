@@ -1,6 +1,6 @@
 "# curl" 
 
-cURL - Client URL
+cURL - Client URL | cURL is in PHP  | Pass data Server to Server | Pass data without  Browser
 ==========================
 curl in php is used to remotely connect to the server and can pass GET/POST method data programatically
 
