@@ -22,10 +22,6 @@ API with data
 
 curl_setopt — Set an option for a cURL transfer
 
-Youtube Tutorial : https://youtu.be/WrJIs8sRVa8
-
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
+Youtube Tutorial : https://youtu.be/GgKLeaq8H40
 
 Donate to Paypal : patabuz@gmail.com
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
